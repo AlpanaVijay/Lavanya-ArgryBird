@@ -35,6 +35,7 @@ function setup(){
 
     bird = new Bird(100,100);
     console.log("Lavanaya see we have made the changes")
+    console.log("Again making changes")
 }
 
 function draw(){
